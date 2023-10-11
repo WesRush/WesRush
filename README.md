@@ -1,7 +1,7 @@
 ## Weslley Gualberto do Carmo Silva
 Busco oportunidades para investir no aprimoramento das minhas habilidades profissionais, com especial ênfase no início dos meus estudos na área de tecnologia. Almejo cargos de maior performance e, acima de tudo, valorizo o respeito nas relações profissionais. Tenho uma dedicação incansável nas etapas de aprendizagem e respeito o processo, com o foco em aplicar os conhecimentos aprendidos durante a jornada.
 
-Iniciar minha trajetória na área de tecnologia é uma empolgante nova fase em minha carreira. Estou comprometido(a) em absorver conhecimentos e experiências nesse campo em rápido crescimento, adaptando minhas habilidades e aplicando-as de forma eficaz.
+Iniciar minha trajetória na área de tecnologia é uma empolgante nova fase em minha carreira. Estou comprometido em absorver conhecimentos e experiências nesse campo em rápido crescimento, adaptando minhas habilidades e aplicando-as de forma eficaz.
 Estou confiante de que essa iniciativa não só fortalecerá minhas capacidades profissionais, mas também permitirá uma contribuição valiosa para equipes de alto desempenho. 
 
 ## Conecte-se comigo
