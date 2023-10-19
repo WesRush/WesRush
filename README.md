@@ -11,4 +11,6 @@ Estou confiante de que essa iniciativa não só fortalecerá minhas capacidades 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 	![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ## GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WesRush&theme=vue-dark&background=001&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WesRush&theme=vue-dark&background=001&border=30A3DC&dates=FFF)](https://git.io/streak-stats)        
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WesRush&bg_color=000&border_color=30A3DC&title_color=00b9a0&text_color=FFF)
+
