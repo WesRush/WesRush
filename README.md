@@ -7,8 +7,11 @@ Estou confiante de que essa iniciativa não só fortalecerá minhas capacidades 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslley-gualberto-61092316b/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush) 
 
+## Atualmente estudando
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
+
 ## Linguagens de interesse
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 	![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ## GitHub
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WesRush&theme=vue-dark&background=001&border=30A3DC&dates=FFF)](https://git.io/streak-stats)        
