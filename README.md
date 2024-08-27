@@ -6,7 +6,7 @@ Embora tenha acumulado experiências valiosas, sempre mantive um forte interesse
 Em 2024, decidi realizar a transição para a área de tecnologia, começando a me capacitar de forma consistente através de cursos online. Atualmente, estou participando do programa START da Rede Cidadã, com foco em desenvolvimento back-end em Java, e planejo dar continuidade aos estudos na área através do ensino superior em Análise e desenvolvimento de sistemas.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslley-gualberto-61092316b/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslleygcsilva/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush) 
 
 ## Atualmente estudando
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
