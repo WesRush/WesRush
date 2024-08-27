@@ -1,8 +1,9 @@
 ## Weslley Gualberto do Carmo Silva
-Busco oportunidades para investir no aprimoramento das minhas habilidades profissionais, com especial ênfase no início dos meus estudos na área de tecnologia. Almejo cargos de maior performance e, acima de tudo, valorizo o respeito nas relações profissionais. Tenho uma dedicação incansável nas etapas de aprendizagem e respeito o processo, com o foco em aplicar os conhecimentos aprendidos durante a jornada.
+Iniciei minha trajetória acadêmica em Turismo na UFPE, onde adquiri um amplo contato cultural desde o primeiro estágio no Museu da Cidade do Recife, desenvolvendo habilidades em atendimento ao público e mediação expositiva. Posteriormente, trabalhei no Ibis Recife Aeroporto, da rede Accor, onde atuei como estagiário, recepcionista e por último como auditor noturno com foco em cumprimento de metas, prazos, satisfação aos clientes e resolução de problemas.
 
-Iniciar minha trajetória na área de tecnologia é uma empolgante nova fase em minha carreira. Estou comprometido em absorver conhecimentos e experiências nesse campo em rápido crescimento, adaptando minhas habilidades e aplicando-as de forma eficaz.
-Estou confiante de que essa iniciativa não só fortalecerá minhas capacidades profissionais, mas também permitirá uma contribuição valiosa para equipes de alto desempenho. 
+Embora tenha acumulado experiências valiosas, sempre mantive um forte interesse na área de tecnologia, uma paixão que começou em 2015 com um curso profissionalizante em manutenção de computadores. Ao longo do tempo, percebi que minha verdadeira ambição estava na tecnologia.
+
+Em 2024, decidi realizar a transição para a área de tecnologia, começando a me capacitar de forma consistente através de cursos online. Atualmente, estou participando do programa START da Rede Cidadã, com foco em desenvolvimento back-end em Java, e planejo dar continuidade aos estudos na área através do ensino superior em Análise e desenvolvimento de sistemas.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslley-gualberto-61092316b/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush) 
