@@ -5,14 +5,12 @@ Embora tenha acumulado experiências valiosas, sempre mantive um forte interesse
 
 Em 2024, decidi realizar a transição para a área de tecnologia, começando a me capacitar de forma consistente através de cursos online. Atualmente, estou participando do programa START da Rede Cidadã, com foco em desenvolvimento back-end em Java, e planejo dar continuidade aos estudos na área através do ensino superior em Análise e desenvolvimento de sistemas.
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslleygcsilva/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush) 
-
-## Atualmente estudando
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-## Linguagens de interesse
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## Fale comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslleygcsilva/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0Ef6A8)](gualbertoweslley@gmail.com)
 
 
+## Interesses
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=0Ef6A8) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=0Ef6A8) ![](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=0Ef6A8)![](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=0Ef6A8) ![](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=0Ef6A8)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=0Ef6A8)
 
