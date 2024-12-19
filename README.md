@@ -3,7 +3,7 @@ Iniciei minha trajetória acadêmica em Turismo na UFPE, onde adquiri um amplo c
 
 Embora tenha acumulado experiências valiosas, sempre mantive um forte interesse na área de tecnologia, uma paixão que começou em 2015 com um curso profissionalizante em manutenção de computadores. Ao longo do tempo, percebi que minha verdadeira ambição estava na tecnologia.
 
-Em 2024, decidi realizar a transição para a área de tecnologia, começando a me capacitar de forma consistente através de cursos online. Atualmente, estou participando do programa START da Rede Cidadã, com foco em desenvolvimento back-end em Java, e planejo dar continuidade aos estudos na área através do ensino superior em Análise e desenvolvimento de sistemas.
+Em 2024, decidi realizar a transição para a área de tecnologia, começando a me capacitar de forma consistente através de cursos online. Participei do programa START da Rede Cidadã, com foco em desenvolvimento back-end em Java, e planejo dar continuidade aos estudos na área através do ensino superior em Análise e desenvolvimento de sistemas.
 
 ## Fale comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslleygcsilva/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush)
