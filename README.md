@@ -1,16 +1,16 @@
-## Olá, me chamo Weslley 🙋🏾‍♂️
-Iniciei minha trajetória acadêmica em Turismo na UFPE, onde adquiri um amplo contato cultural desde o primeiro estágio no Museu da Cidade do Recife, desenvolvendo habilidades em atendimento ao público e mediação expositiva. Posteriormente, trabalhei no Ibis Recife Aeroporto, da rede Accor, onde atuei como estagiário, recepcionista e por último como auditor noturno com foco em cumprimento de metas, prazos, satisfação aos clientes e resolução de problemas.
+## Sobre Mim 👨‍💻
+Olá! Sou Weslley Gualberto, um entusiasta da tecnologia que decidiu realizar uma transição de carreira em 2024. Após anos de experiência em atendimento ao público, gestão administrativa e turismo, percebi que minha verdadeira paixão sempre foi a tecnologia.
 
-Embora tenha acumulado experiências valiosas, sempre mantive um forte interesse na área de tecnologia, uma paixão que começou em 2015 com um curso profissionalizante em manutenção de computadores. Ao longo do tempo, percebi que minha verdadeira ambição estava na tecnologia.
+Meu interesse na área começou em 2015, quando fiz um curso de manutenção de computadores, hoje estou totalmente focado em desenvolvimento back-end. Neste ano, participei do programa START da Rede Cidadã, onde me especializei em Java, Spring Boot, MySQL e desenvolvimento de APIs RESTful. Durante o programa, desenvolvi meu primeiro projeto prático, o ProntoRecife, uma aplicação voltada à integração de registros clínicos no ciclo de cuidado.
 
-Em 2024, decidi realizar a transição para a área de tecnologia, começando a me capacitar de forma consistente através de cursos online. Participei do programa START da Rede Cidadã, com foco em desenvolvimento back-end em Java, e planejo dar continuidade aos estudos na área através do ensino superior em Análise e desenvolvimento de sistemas.
+Atualmente, estou enfrentando um desafio pessoal: o 100 Dias de Java. A ideia é revisar conceitos fundamentais da linguagem, aprimorar habilidades em tecnologias relacionadas e criar projetos que possam ser úteis para outros desenvolvedores e a comunidade como um todo. O progresso do desafio pode ser acompanhado no meu repositório do GitHub, onde também compartilho outros projetos e aprendizados ao longo da jornada.
 
 ## Fale comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0Ef6A8)](https://www.linkedin.com/in/weslleygcsilva/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0Ef6A8)](https://github.com/WesRush)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0Ef6A8)](gualbertoweslley@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleygcsilva/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gualbertoweslley@gmail.com)
 
 
 ## Interesses
-![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=0Ef6A8) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=0Ef6A8) ![](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=0Ef6A8)![](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=0Ef6A8) ![](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=0Ef6A8)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=0Ef6A8)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
