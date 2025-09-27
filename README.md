@@ -1,6 +1,6 @@
 # Sobre Mim 👨‍💻
 
-Olá! Sou **Weslley Gualberto**, estudante de **Análise e Desenvolvimento de Sistemas** e em constante evolução na área de tecnologia.
+Olá! Sou **Weslley Gualberto do Carmo Silva**, estudante de **Análise e Desenvolvimento de Sistemas** e em constante evolução na área de tecnologia.
 Iniciei minha jornada pelo **back-end com Java**, pela força que a linguagem tem no mercado e também pela curiosidade em explorar um ecossistema tão consolidado.
 
 Minha meta é **me tornar um desenvolvedor fullstack sólido**, entendendo bem cada camada de um sistema, mas com o olhar de quem pretende ir além do desenvolvimento no futuro. Tenho interesse em **Engenharia de Software** e em aprofundar meu entendimento sobre **produto e gestão em tecnologia**.
