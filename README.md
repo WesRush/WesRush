@@ -1,16 +1,18 @@
-## Sobre Mim 👨‍💻
-Olá! Sou Weslley Gualberto, um entusiasta da tecnologia que decidiu realizar uma transição de carreira em 2024. Após anos de experiência em atendimento ao público, gestão administrativa e turismo, percebi que minha verdadeira paixão sempre foi a tecnologia.
+# Sobre Mim 👨‍💻
 
-Meu interesse na área começou em 2015, quando fiz um curso de manutenção de computadores, hoje estou totalmente focado em desenvolvimento back-end. No ano de 2024, participei do programa START da Rede Cidadã, onde me especializei em Java, Spring Boot e MySQL. Durante o programa, desenvolvi meu primeiro projeto prático, o [ProntoRecife](https://github.com/Pronto-Recife), uma aplicação voltada à integração de registros clínicos no ciclo de cuidado.
+Olá! Sou **Weslley Gualberto**, estudante de **Análise e Desenvolvimento de Sistemas** e em constante evolução na área de tecnologia.
+Iniciei minha jornada pelo **back-end com Java**, pela força que a linguagem tem no mercado e também pela curiosidade em explorar um ecossistema tão consolidado.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas visando me qualificar ainda mais para o mercado!
+Minha meta é **me tornar um desenvolvedor fullstack sólido**, entendendo bem cada camada de um sistema, mas com o olhar de quem pretende ir além do desenvolvimento no futuro. Tenho interesse em **Engenharia de Software** e em aprofundar meu entendimento sobre **produto e gestão em tecnologia**.
+
+Atualmente, me sinto mais confortável com Java e frameworks como Spring Boot, mas não me limito a uma única linguagem. Se o projeto pede **Python, JavaScript, ou até mesmo frontend e design**, sigo explorando com naturalidade — gosto de aprender em diferentes contextos e me adaptar às demandas.
+
+O que me define é estar sempre em movimento: nunca parado, sempre estudando, participando de cursos, projetos acadêmicos e pessoais, buscando me aproximar cada vez mais das práticas do mercado e do desenvolvimento de soluções reais.
+
+
 
 ## Fale comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleygcsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gualbertoweslley@gmail.com)
-
-
-## Interesses
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
