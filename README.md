@@ -12,7 +12,8 @@
 
 
 <h1 align="left">GitHub Stats</h1>
-<p><a href="https://git.io/streak-stats"><img height ="180em" img src="https://streak-stats.demolab.com?user=wesrush&theme=merko&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/></a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesrush&layout=compact&langs_count=7&theme=merko"/></p>
+<p><a href="https://git.io/streak-stats"><img height ="180em" img src="https://streak-stats.demolab.com?user=wesrush&theme=merko&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesrush&layout=compact&langs_count=7&theme=merko"/></p>
 
 
 
