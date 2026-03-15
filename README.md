@@ -5,7 +5,6 @@
 * 👨‍💻 **Ponto de partida:** Back-end com Java.
 * 🎯 **Foco:** Desenvolvimento Full-stack, Engenharia de Software e Gestão em T.I.
 * ⚡ **Filosofia:** Aprendizado constante, vontade e resiliência.
-* 👨‍💻 **Meu portifólio:** [https://portifolio-weslley.page.gd/](https://portifolio-weslley.page.gd/)
 * 📫 **Me manda um e-mail** **gualbertoweslley@gmail.com**
 
 
